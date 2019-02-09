@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Commander Bot</title>
+    <link>/news/</link>
+    <description>Recent content in News on Commander Bot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Commander Bot Beta</title>
+      <link>/news/beta/</link>
+      <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/news/beta/</guid>
+      <description>Beta Release This Beta Version is the first public test of the bot.</description>
+    </item>
+    
+  </channel>
+</rss>
