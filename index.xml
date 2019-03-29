@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Commander Bot</title>
+    <title>MassMover Bot</title>
     <link>/</link>
-    <description>Recent content on Commander Bot</description>
+    <description>Recent content on MassMover Bot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Feb 2019 00:00:00 +0000</lastBuildDate>
@@ -21,14 +21,14 @@
     </item>
     
     <item>
-      <title>Commander Multi-Bot</title>
+      <title>MassMover Multi-Bot</title>
       <link>/about/</link>
       <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
       <description>This is an OpenSource Project available on Github: 
-The CommanderBot is a Multi-Token Discord Bot. This can be used to split intensive operations, or API limited opperations like the &amp;ldquo;User Voice Channel Move&amp;rdquo; opperation (limited by the API).
-Is is capable of using N &amp;ldquo;Servant&amp;rdquo; Bot connections to perform fast mass &amp;ldquo;User Move&amp;rdquo; operations, and the request will be executed by the ammount of bots connected to the server.</description>
+The MassMover Bot is a Multi-Token Discord Bot. This can be used to split intensive operations, or API limited opperations like the &amp;ldquo;User Voice Channel Move&amp;rdquo; opperation (limited by the API).
+Is is capable of using N &amp;ldquo;Power Up&amp;rdquo; Bot connections to perform fast mass &amp;ldquo;User Move&amp;rdquo; operations, and the request will be executed by the ammount of bots connected to the server.</description>
     </item>
     
   </channel>
