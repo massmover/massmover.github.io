@@ -6,28 +6,7 @@
     <description>Recent content on MassMover Bot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Nice messages are comming!</title>
-      <link>/news/embeded/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/news/embeded/</guid>
-      <description>Working on better messages for the bot What does this mean ?
-Currently, the bot sends pure text messages. I&amp;rsquo;m working on EmbededMessages. They look more detached from the rest of the code, and is possible to add more information to them.
-Emojis are comming as well !</description>
-    </item>
-    
-    <item>
-      <title>MassMover Bot v1.0</title>
-      <link>/news/releasev1/</link>
-      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/news/releasev1/</guid>
-      <description>First Release ! The first version of the bot was released.
-This version brought more languages (Spanish and French) and a Summon feature with a new way to move members.</description>
-    </item>
-    
+    <lastBuildDate>Fri, 08 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MassMover Bot Beta</title>
       <link>/news/beta/</link>
@@ -43,8 +22,9 @@ This version brought more languages (Spanish and French) and a Summon feature wi
       <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>This is an OpenSource Project available on Github: The MassMover Bot is a Multi-Token Discord Bot. This can be used to split intensive operations, or API limited opperations like the &amp;ldquo;User Voice Channel Move&amp;rdquo; opperation (limited by the API).
-Is is capable of using N &amp;ldquo;Power Up&amp;rdquo; Bot connections to perform fast mass &amp;ldquo;User Move&amp;rdquo; operations, and the request will be executed by the ammount of bots connected to the server.</description>
+      <description>This is an OpenSource Project available on Github: MassMover Discord bot The MassMover bot is a Multi-Token Discord Bot. This can be used to split intensive operations, or API limited opperations like the &amp;ldquo;User Voice Channel Move&amp;rdquo; opperations.
+It is capable of using N &amp;ldquo;PowerUp&amp;rdquo; Bot connections to perform fast mass &amp;ldquo;User Move&amp;rdquo; operations, and the request will be executed by the amount of bots connected to the server.
+Usage You can invite the public version of the bot in its page: massmover.</description>
     </item>
     
   </channel>
